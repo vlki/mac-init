@@ -1,0 +1,5 @@
+# Expect having the dotfiles at the following path
+if [ -f ~/vlki/dotfiles/linux/.bash_profile ]; then
+	echo "sourced ~/vlki/dotfiles/linux/.bash_profile";
+	source ~/vlki/dotfiles/linux/.bash_profile;
+fi;

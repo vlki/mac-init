@@ -1,0 +1,4 @@
+export PATH="$HOME/bin:$PATH";
+
+# Add global composer binaries to path
+export PATH="$HOME/.composer/vendor/bin:$PATH";
