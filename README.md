@@ -18,6 +18,6 @@ cd mac-init
 ./6-macos-config.sh
 ```
 
-# Thanks
+## Thanks
 
 Mainly to [Mathias's dotfiles](https://github.com/mathiasbynens/dotfiles) for the extensive configuration options he has there.
